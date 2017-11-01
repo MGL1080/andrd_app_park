@@ -10,5 +10,6 @@ namespace test1_prk
         public int Costo { get; set; }
         public string Nombre { get; set; }
         public int Disponible { get; set; }
+        //NOTA DE EDICION
     }
 }
